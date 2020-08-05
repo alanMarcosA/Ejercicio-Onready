@@ -1,4 +1,5 @@
 # Ejercicio-Onready
+text{
 Ejercicio Onready
 Imaginemos una concesionaria de autos y motos.
 Crear un programa cuyo punto de entrada sea un index.js en donde, al ejecutarse, se visualiza lo siguiente por consola y se termina la ejecución:
@@ -29,5 +30,5 @@ La solución debe cumplir con los siguientes requisitos:
 - El entregable deberá ser la URL de un repositorio Git público para que podamos descargar directamente.
 
 
-Cualquier consulta no duden en preguntar a busquedas@onready.com.ar
+Cualquier consulta no duden en preguntar a busquedas@onready.com.ar}
 
